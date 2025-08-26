@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\MirchandaniLE2\MirchandaniBlogDB\bin\Debug\MirchandaniBlogDB.dacpac
+C:\Users\Admin\source\repos\MirchandaniLE2\MirchandaniBlogDB\bin\Debug\MirchandaniBlogDB.dll
+C:\Users\Admin\source\repos\MirchandaniLE2\MirchandaniBlogDB\bin\Debug\MirchandaniBlogDB.pdb
+C:\Users\Admin\source\repos\MirchandaniLE2\MirchandaniBlogDB\obj\Debug\MirchandaniBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MirchandaniLE2\MirchandaniBlogDB\obj\Debug\MirchandaniBlogDB.dll
+C:\Users\Admin\source\repos\MirchandaniLE2\MirchandaniBlogDB\obj\Debug\MirchandaniBlogDB.pdb
